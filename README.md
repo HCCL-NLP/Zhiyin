@@ -8,11 +8,11 @@
 
 ### 🚀 推理代码
 
-详见[Zhiyin/cli_demo.py](./)，尽可能简化的一个推理代码实现。
+详见[cli_demo.py](./cli_demo.py)，尽可能简化的一个推理代码实现。
 
 ### 🤖 模型
 
-详见[Zhiyin/models](models/)
+详见[models](models/)
 , 以及我们实验室研发的大模型[Zhiyin-7B-Chat](https://huggingface.co/HCCL-NLP/Zhiyin-7B-Chat)。
 
 ## 安装依赖
